@@ -1,2 +1,2 @@
-# Dhana-Teja_Assignment-1
-Python Course Exercises 1
+# Dhana-Teja_Assignments
+Python Course Exercises
